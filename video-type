@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "影片標題",
+  "description": "影片摘要、內容描述",
+  "thumbnailUrl": [
+    "影片縮圖1網址",
+    "影片縮圖2網址",
+    "影片縮圖3網址"
+   ],
+  "uploadDate": "2015-02-05T08:00:00+08:00", //影片上傳時間
+  "duration": "PT1M33S", //影片長度
+  "contentUrl": "http://www.example.com/video123.flv", //影片檔案URL
+  "embedUrl": "http://www.example.com/videoplayer.swf?video=123", //影片頁面URL
+  "interactionCount": "2347" //總觀看人數
+}
+</script>
